@@ -5,45 +5,46 @@
 <h1 align="center">⚡ Roberto Ribeiro ⚡</h1>
 
 <h3 align="center">
-Building the Kellera Bio Aura System
+Construindo o Kellera Bio Aura System
 </h3>
 
 <p align="center">
-ESP32 • Sensors • Biofeedback • Embedded Systems • Human Technology
+ESP32 • Sensores • Biofeedback • Sistemas Embarcados • Tecnologia Humana
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 Sobre Mim
 
-Currently building the **Kellera Bio Aura System**.
+Atualmente desenvolvendo o projeto **Kellera Bio Aura System**.
 
-A project focused on:
-- biological signal reading
-- real-time visualization
-- ESP32 systems
-- embedded technology
-- human-centered interfaces
+Um sistema focado em:
+- leitura de sinais biológicos
+- visualização em tempo real
+- ESP32
+- sensores
+- sistemas embarcados
+- tecnologia centrada no ser humano
 
-Learning publicly and documenting the full process.
+Documentando publicamente toda a evolução do projeto.
 
 ---
 
-# 🚀 Current Project
+# 🚀 Projeto Atual
 
 ## Kellera Bio Aura System
 
-Technology created to transform biological signals into visual and interactive responses.
+Tecnologia criada para transformar sinais biológicos em respostas visuais e interativas.
 
-### Current integrations:
-- 🌡️ DS18B20 Temperature Sensor
-- 🌈 RGB LED HW-479
+### Integrações atuais:
+- 🌡️ Sensor de temperatura DS18B20
+- 🌈 LED RGB HW-479
 - ⚡ ESP32 DevKit V1
-- ❤️ MAX30102 Heart Rate Sensor (next step)
+- ❤️ Sensor cardíaco MAX30102 (próximo passo)
 
 ---
 
-# ⚙️ Tech Stack
+# ⚙️ Tecnologias
 
 <p align="left">
 
@@ -57,13 +58,13 @@ Technology created to transform biological signals into visual and interactive r
 
 <img src="https://img.shields.io/badge/IoT-6A5ACD?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Embedded%20Systems-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sistemas%20Embarcados-111111?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 📈 Estatísticas GitHub
 
 <p align="center">
 
@@ -77,38 +78,38 @@ Technology created to transform biological signals into visual and interactive r
 
 # 🧠 Roadmap
 
-- [x] ESP32 setup
-- [x] RGB LED control
-- [x] Temperature sensor integration
-- [ ] MAX30102 heart rate integration
-- [ ] Biofeedback response system
-- [ ] Aura visualization
-- [ ] Mobile interface
-- [ ] AI interpretation layer
+- [x] Configuração inicial da ESP32
+- [x] Controle de LED RGB
+- [x] Integração do sensor de temperatura
+- [ ] Integração do sensor cardíaco MAX30102
+- [ ] Sistema de biofeedback
+- [ ] Visualização de aura tecnológica
+- [ ] Interface mobile
+- [ ] Camada de interpretação com IA
 
 ---
 
-# 📂 Featured Repositories
+# 📂 Repositórios em Destaque
 
 🚀 Kellera Bio Aura System  
-🐍 Python Calculator  
-⚡ Future embedded systems projects
+🐍 Calculadora Python  
+⚡ Projetos futuros com sistemas embarcados
 
 ---
 
-# 🌐 Social
+# 🌐 Redes
 
-📸 Instagram:
+📸 Instagram  
 https://www.instagram.com/kellera.app/
 
-💼 LinkedIn:
+💼 LinkedIn  
 www.linkedin.com/in/robertopub
 
 ---
 
-# 🔬 Philosophy
+# 🔬 Filosofia
 
-> Technology should amplify human perception — not replace it.
+> A tecnologia deve ampliar a percepção humana — não substituir o ser humano.
 
 ---
 

@@ -102,7 +102,7 @@ Technology created to transform biological signals into visual and interactive r
 https://www.instagram.com/kellera.app/
 
 💼 LinkedIn:
-ADD_SEU_LINK_LINKEDIN
+www.linkedin.com/in/robertopub
 
 ---
 

@@ -39,6 +39,25 @@ Documentando publicamente toda a evolução do projeto.
 
 # 🧩 KELLERA ECOSYSTEM
 
+```text
+KELLERA ECOSYSTEM
+│
+├── KELLERA CORE
+│
+├── CAPACIDADES COMPARTILHADAS
+│   ├── AI
+│   ├── VOICE
+│   ├── MOBILITY
+│   ├── EMERGENCY
+│   ├── HOME
+│   └── SENSORS
+│
+├── KELLERA VISION
+│
+└── KELLERA BIOSYSTEM
+```
+
+
 
 Ecossistema inteligente focado em acessibilidade, assistência contextual, sensores, IA e tecnologia humana.
 

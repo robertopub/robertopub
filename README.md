@@ -9,11 +9,9 @@ Ecossistema de acessibilidade, IA e tecnologia humana
 </h3>
 
 
-
 <p align="center">
 Acessibilidade • IA • Sensores • Assistência Contextual • Sistemas Embarcados • Tecnologia Humana
 </p>
-
 
 ---
 
@@ -226,12 +224,12 @@ Ecossistema inteligente focado em acessibilidade, assistência contextual, senso
 * [ ] Assistência inteligente personalizada
 * [ ] Integração multimodal
 
-
 ---
 
 # 📂 Repositórios em Destaque
 
-🚀 Kellera Bio Aura System  
+🚀 KELLERA Ecosystem
+Ecossistema de acessibilidade, IA, sensores e tecnologia humana em construção pública.
 
 ---
 

@@ -176,14 +176,56 @@ Ecossistema inteligente focado em acessibilidade, assistência contextual, senso
 
 # 🧠 Roadmap
 
-- [x] Configuração inicial da ESP32
-- [x] Controle de LED RGB
-- [x] Integração do sensor de temperatura
-- [ ] Integração do sensor cardíaco MAX30102
-- [ ] Sistema de biofeedback
-- [ ] Visualização de aura tecnológica
-- [ ] Interface mobile
-- [ ] Camada de interpretação com IA
+## 🧩 KELLERA CORE
+
+* [ ] Arquitetura modular do ecossistema
+* [ ] Sistema central de navegação
+* [ ] Gerenciamento de módulos
+* [ ] Sistema biométrico oficial
+* [ ] Comunicação entre capacidades compartilhadas
+* [ ] Configurações globais do ecossistema
+
+---
+
+## 👁️ KELLERA VISION
+
+* [x] Reconhecimento inicial de voz
+* [x] Feedback auditivo inicial
+* [x] Abertura de aplicativos por voz
+* [ ] Assistente visual contínuo
+* [ ] Reconhecimento de obstáculos
+* [ ] Navegação assistida
+* [ ] Leitura contextual de ambiente
+* [ ] Integração com câmera
+* [ ] Descrição ambiental em tempo real
+* [ ] Mobility System
+
+---
+
+## ❤️ KELLERA BIOSYSTEM
+
+* [x] Configuração inicial da ESP32
+* [x] Controle de LED RGB
+* [x] Integração do sensor de temperatura
+* [ ] Integração do sensor cardíaco MAX30102
+* [ ] Sistema de biofeedback
+* [ ] Visualização biométrica contextual
+* [ ] Interface mobile integrada
+* [ ] Monitoramento corporal contínuo
+* [ ] Wearable / smartwatch
+
+---
+
+## 🤖 AI & CAPABILITIES
+
+* [ ] Interpretação contextual
+* [ ] Voice assistant contínuo
+* [ ] Sistema de emergência
+* [ ] Integração Home
+* [ ] Context awareness
+* [ ] Assistência inteligente personalizada
+* [ ] Integração multimodal
+
 
 ---
 

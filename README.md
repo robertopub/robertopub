@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://raw.githubusercontent.com/robertopub/robertopub/main/banner-kellera.png" />
+ <img src="https://raw.githubusercontent.com/robertopub/robertopub/main/banner-kellera-ecosystem.png" />
 </p>
 
 <h1 align="center">⚡ Roberto Ribeiro ⚡</h1>

@@ -99,8 +99,6 @@ Ecossistema inteligente focado em acessibilidade, assistência contextual, senso
 # 📂 Repositórios em Destaque
 
 🚀 Kellera Bio Aura System  
-🐍 Calculadora Python  
-⚡ Projetos futuros com sistemas embarcados
 
 ---
 

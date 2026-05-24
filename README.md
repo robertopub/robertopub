@@ -5,12 +5,15 @@
 <h1 align="center">⚡ Roberto Ribeiro ⚡</h1>
 
 <h3 align="center">
-Construindo o Kellera Bio Aura System
+Ecossistema de acessibilidade, IA e tecnologia humana
 </h3>
 
+
+
 <p align="center">
-ESP32 • Sensores • Biofeedback • Sistemas Embarcados • Tecnologia Humana
+Acessibilidade • IA • Sensores • Assistência Contextual • Sistemas Embarcados • Tecnologia Humana
 </p>
+
 
 ---
 
@@ -32,7 +35,8 @@ Documentando publicamente toda a evolução do projeto.
 
 # 🚀 Projeto Atual
 
-## Kellera Bio Aura System
+# 🧩 KELLERA ECOSYSTEM
+
 
 Tecnologia criada para transformar sinais biológicos em respostas visuais e interativas.
 

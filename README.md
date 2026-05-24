@@ -56,6 +56,78 @@ KELLERA ECOSYSTEM
 │
 └── KELLERA BIOSYSTEM
 ```
+# 🚀 Módulos Atuais
+
+## 👁️ KELLERA VISION
+
+Sistema principal de acessibilidade e assistência visual.
+
+Objetivos:
+
+* navegação assistida
+* interação por voz
+* reconhecimento de ambiente
+* mobilidade
+* acessibilidade contextual
+* autonomia para deficientes visuais
+
+Capacidades utilizadas:
+
+* AI
+* Voice
+* Mobility
+* Emergency
+* Sensors
+
+---
+
+## ❤️ KELLERA BIOSYSTEM
+
+Sistema corporal e biométrico integrado ao ecossistema.
+
+Objetivos:
+
+* monitoramento corporal
+* sensores biométricos
+* biofeedback
+* sinais vitais
+* integração ESP32
+* saúde preventiva
+
+Capacidades utilizadas:
+
+* AI
+* Voice
+* Emergency
+* Sensors
+
+---
+
+## 🧠 CAPACIDADES COMPARTILHADAS
+
+### 🤖 AI
+
+Interpretação contextual e inteligência do ecossistema.
+
+### 🎙️ Voice
+
+Interação natural por voz e feedback auditivo.
+
+### 🛰️ Mobility
+
+GPS, locomoção, obstáculos e navegação assistida.
+
+### 🚨 Emergency
+
+Alertas, quedas, SOS e assistência crítica.
+
+### 🏠 Home
+
+Integração com ambientes e automação residencial.
+
+### 📡 Sensors
+
+Sensores biométricos, ambientais e contextuais.
 
 
 

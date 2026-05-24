@@ -19,26 +19,29 @@ Acessibilidade • IA • Sensores • Assistência Contextual • Sistemas Emba
 
 # 👨‍💻 Sobre Mim
 
-Atualmente desenvolvendo o projeto **Kellera Bio Aura System**.
+Atualmente desenvolvendo o **KELLERA Ecosystem**.
 
-Um sistema focado em:
-- leitura de sinais biológicos
-- visualização em tempo real
-- ESP32
-- sensores
-- sistemas embarcados
-- tecnologia centrada no ser humano
+Um ecossistema de acessibilidade, IA e tecnologia humana focado em:
+
+* assistência contextual
+* autonomia
+* acessibilidade visual
+* sensores inteligentes
+* mobilidade
+* sistemas embarcados
+* interação por voz
+* tecnologia centrada no ser humano
 
 Documentando publicamente toda a evolução do projeto.
 
----
 
-# 🚀 Projeto Atual
+---
 
 # 🧩 KELLERA ECOSYSTEM
 
 
-Tecnologia criada para transformar sinais biológicos em respostas visuais e interativas.
+Ecossistema inteligente focado em acessibilidade, assistência contextual, sensores, IA e tecnologia humana.
+
 
 ### Integrações atuais:
 - 🌡️ Sensor de temperatura DS18B20

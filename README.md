@@ -231,8 +231,6 @@ Sensores biométricos, ambientais e interpretação contextual.
 
 # 📈 Estatísticas GitHub
 
-# 📈 Estatísticas GitHub
-
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertopub&show_icons=true&theme=tokyonight&cache_seconds=1800"/>

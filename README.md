@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/robertopub/robertopub/main/banner-kellera-ecosystem.png"/>
+ <img src="https://raw.githubusercontent.com/robertopub/robertopub/main/banner-kellera-ecosystem.png" />
 </p>
 
 <h1 align="center">⚡ Roberto Ribeiro ⚡</h1>
@@ -9,9 +9,7 @@ Criador do KELLERA Ecosystem • IA • Acessibilidade • Sistemas Embarcados
 </h3>
 
 <p align="center">
-
-Acessibilidade • Inteligência Artificial • IoT • ESP32 • Computação Assistiva • Interação Humano-Computador
-
+Acessibilidade • Inteligência Artificial • IoT • Computação Assistiva • Biometria • Interação Humano-Computador
 </p>
 
 ---
@@ -24,8 +22,8 @@ Atualmente desenvolvo o **KELLERA Ecosystem**, um ecossistema experimental que u
 
 - Inteligência Artificial
 - Acessibilidade
-- Sensores Inteligentes
 - Sistemas Embarcados
+- Sensores Inteligentes
 - Biometria
 - Computação Assistiva
 - Interação Humano-Computador
@@ -42,7 +40,7 @@ Meu objetivo é criar uma nova geração de interfaces baseadas em:
 
 # 🧠 O que é o KELLERA?
 
-O **KELLERA** é um ecossistema experimental focado em reduzir progressivamente a dependência de telas, toques e interfaces tradicionais.
+O KELLERA é um ecossistema experimental focado em reduzir progressivamente a dependência de telas, toques e interfaces tradicionais.
 
 A proposta é permitir uma interação mais natural entre humanos e máquinas através de:
 
@@ -167,10 +165,12 @@ KELLERA ECOSYSTEM
 
 # 🌐 Redes
 
-📸 Instagram  
+📸 Instagram
+
 https://www.instagram.com/kellera.app/
 
-💼 LinkedIn  
+💼 LinkedIn
+
 https://www.linkedin.com/in/robertopub
 
 ---
@@ -182,7 +182,5 @@ https://www.linkedin.com/in/robertopub
 ---
 
 <p align="center">
-
 ⚡ KELLERA LABS ⚡
-
 </p>

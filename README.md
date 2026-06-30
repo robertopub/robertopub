@@ -1,186 +1,66 @@
-<p align="center">
- <img src="https://raw.githubusercontent.com/robertopub/robertopub/main/banner-kellera-ecosystem.png" />
-</p>
+# Olá, eu sou Roberto Ribeiro da Silva 👋
 
-<h1 align="center">⚡ Roberto Ribeiro ⚡</h1>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-<h3 align="center">
-Criador do KELLERA Ecosystem • IA • Acessibilidade • Sistemas Embarcados
-</h3>
+🚀 Fundador e desenvolvedor do **KELLERA Ecosystem**, um ecossistema de Inteligência Artificial voltado para acessibilidade e inclusão digital.
 
-<p align="center">
-Acessibilidade • Inteligência Artificial • IoT • Computação Assistiva • Biometria • Interação Humano-Computador
-</p>
+Tenho como missão desenvolver tecnologias capazes de promover autonomia, independência e qualidade de vida para pessoas com deficiência visual.
 
----
+## Áreas de interesse
 
-# 👨‍💻 Sobre Mim
-
-Sou desenvolvedor e pesquisador independente focado na criação de tecnologias humanas.
-
-Atualmente desenvolvo o **KELLERA Ecosystem**, um ecossistema experimental que une:
-
-- Inteligência Artificial
-- Acessibilidade
-- Sistemas Embarcados
-- Sensores Inteligentes
-- Biometria
-- Computação Assistiva
-- Interação Humano-Computador
-
-Meu objetivo é criar uma nova geração de interfaces baseadas em:
-
-- voz
-- contexto
-- biometria
-- intenção humana
-- assistência contextual contínua
+* Inteligência Artificial
+* Acessibilidade Digital
+* Desenvolvimento Android
+* Sistemas Embarcados (ESP32)
+* Internet das Coisas (IoT)
+* Interação Humano-Computador
+* Open Source
 
 ---
 
-# 🧠 O que é o KELLERA?
+# 🌍 Projeto Principal: KELLERA Ecosystem
 
-O KELLERA é um ecossistema experimental focado em reduzir progressivamente a dependência de telas, toques e interfaces tradicionais.
+O KELLERA é um ecossistema de acessibilidade baseado em Inteligência Artificial, inspirado no legado de Helen Keller.
 
-A proposta é permitir uma interação mais natural entre humanos e máquinas através de:
+Seu objetivo é transformar a forma como pessoas com deficiência visual interagem com smartphones e tecnologias digitais.
 
-- voz
-- contexto
-- sensores
-- biometria
-- computação assistiva
+## Módulos do Ecossistema
 
-O foco inicial está em acessibilidade para deficientes visuais, mas a visão de longo prazo envolve tecnologia humana aplicada à autonomia e computação natural.
-
----
-
-# 🚀 Repositórios Principais
-
-## 🧠 KELLERA-BRAIN
-
-Arquitetura cognitiva modular responsável por:
-
-- interpretação de intenção
-- memória
-- contexto
-- planejamento
-- tomada de decisão
-- agentes cognitivos
-
-👉 https://github.com/robertopub/KELLERA-BRAIN
+* 📱 KELLERA VISION
+* 🧠 KELLERA BRAIN
+* 🔬 KELLERA BIOSYSTEM
+* 🌐 Pesquisas em Acessibilidade e IA
 
 ---
 
-## 🌐 KELLERA Ecosystem
+## 🎯 Missão
 
-Repositório operacional do ecossistema.
+Desenvolver tecnologias assistivas inteligentes que promovam inclusão, autonomia e dignidade.
 
-Inclui:
+## 🔭 Visão
 
-- Android Accessibility
-- interação por voz
-- biometria
-- integração ESP32
-- sensores inteligentes
-
-👉 https://github.com/robertopub/kellera-ecosystem
+Construir um ecossistema de acessibilidade baseado em Inteligência Artificial capaz de transformar a relação entre pessoas e tecnologia.
 
 ---
 
-# 🧩 Arquitetura do Ecossistema
+## 🤝 Buscando Colaboração
 
-```text
-KELLERA ECOSYSTEM
-│
-├── KELLERA BRAIN
-│
-├── KELLERA VISION
-│
-├── KELLERA BIOSYSTEM
-│
-├── KELLERA AURA
-│
-└── CAPACIDADES COMPARTILHADAS
-    ├── AI
-    ├── VOICE
-    ├── MOBILITY
-    ├── EMERGENCY
-    ├── HOME
-    └── SENSORS
-```
+Estou sempre aberto para conexões com:
+
+* Pesquisadores
+* Empresas
+* Especialistas em acessibilidade
+* Desenvolvedores Android
+* Comunidade Open Source
+* Organizações de impacto social
+
+Se você acredita que a tecnologia pode transformar vidas, vamos conversar.
 
 ---
 
-# 🔬 Áreas de Pesquisa
+## 📫 Contato
 
-- Inteligência Artificial
-- Sistemas Multiagentes
-- Acessibilidade Digital
-- Computação Assistiva
-- Sistemas Embarcados
-- IoT
-- Biometria
-- Context Awareness
-- Human Computer Interaction (HCI)
+* LinkedIn: [www.linkedin.com/in/roberto-ribeiro-da-silva](http://www.linkedin.com/in/roberto-ribeiro-da-silva)
+* GitHub: https://github.com/robertopub
 
----
-
-# ⚙️ Tecnologias
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/IoT-6A5ACD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Accessibility-5C2D91?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Embedded%20Systems-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📈 Estatísticas GitHub
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertopub&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertopub&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌐 Redes
-
-📸 Instagram
-
-https://www.instagram.com/kellera.app/
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/robertopub
-
----
-
-# 🔬 Filosofia
-
-> A tecnologia deve ampliar a percepção humana — não substituir o ser humano.
-
----
-
-<p align="center">
-⚡ KELLERA LABS ⚡
-</p>
+"A tecnologia só faz sentido quando ela é capaz de incluir pessoas."

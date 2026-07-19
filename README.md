@@ -1,66 +1,67 @@
-# Olá, eu sou Roberto Ribeiro da Silva 👋
+# Hi, I'm Roberto Ribeiro da Silva 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
+🎓 Systems Analysis and Development (ADS) student.
 
-🚀 Fundador e desenvolvedor do **KELLERA Ecosystem**, um ecossistema de Inteligência Artificial voltado para acessibilidade e inclusão digital.
+🚀 Founder and developer of **KELLERA**, an artificial intelligence project focused on accessibility, assistive technology, and human-centered innovation.
 
-Tenho como missão desenvolver tecnologias capazes de promover autonomia, independência e qualidade de vida para pessoas com deficiência visual.
-
-## Áreas de interesse
-
-* Inteligência Artificial
-* Acessibilidade Digital
-* Desenvolvimento Android
-* Sistemas Embarcados (ESP32)
-* Internet das Coisas (IoT)
-* Interação Humano-Computador
-* Open Source
+I am passionate about developing technologies that promote autonomy, independence, and quality of life through artificial intelligence, software engineering, and emerging technologies, with a special focus on healthcare, accessibility, and social impact.
 
 ---
 
-# 🌍 Projeto Principal: KELLERA Ecosystem
+# 💡 Areas of Interest
 
-O KELLERA é um ecossistema de acessibilidade baseado em Inteligência Artificial, inspirado no legado de Helen Keller.
-
-Seu objetivo é transformar a forma como pessoas com deficiência visual interagem com smartphones e tecnologias digitais.
-
-## Módulos do Ecossistema
-
-* 📱 KELLERA VISION
-* 🧠 KELLERA BRAIN
-* 🔬 KELLERA BIOSYSTEM
-* 🌐 Pesquisas em Acessibilidade e IA
+- Artificial Intelligence
+- Android Development
+- Assistive Technology
+- Healthcare Technology
+- Embedded Systems (ESP32)
+- Internet of Things (IoT)
+- Human-Computer Interaction
+- Open Source
 
 ---
 
-## 🎯 Missão
+# 🌍 Featured Project — KELLERA
 
-Desenvolver tecnologias assistivas inteligentes que promovam inclusão, autonomia e dignidade.
+KELLERA is an AI-powered accessibility assistant designed to help people interact with smartphones using natural voice conversations.
 
-## 🔭 Visão
+The project combines speech recognition, voice synthesis, Android accessibility services, and artificial intelligence to create more intuitive and inclusive digital experiences.
 
-Construir um ecossistema de acessibilidade baseado em Inteligência Artificial capaz de transformar a relação entre pessoas e tecnologia.
-
----
-
-## 🤝 Buscando Colaboração
-
-Estou sempre aberto para conexões com:
-
-* Pesquisadores
-* Empresas
-* Especialistas em acessibilidade
-* Desenvolvedores Android
-* Comunidade Open Source
-* Organizações de impacto social
-
-Se você acredita que a tecnologia pode transformar vidas, vamos conversar.
+Originally created to support blind users, KELLERA continues to evolve into a broader platform for accessibility and healthcare technologies.
 
 ---
 
-## 📫 Contato
+# 🎯 Mission
 
-* LinkedIn: [www.linkedin.com/in/roberto-ribeiro-da-silva](http://www.linkedin.com/in/roberto-ribeiro-da-silva)
-* GitHub: https://github.com/robertopub
+Develop intelligent technologies that promote autonomy, independence, accessibility, and quality of life through innovation and artificial intelligence.
 
-"A tecnologia só faz sentido quando ela é capaz de incluir pessoas."
+---
+
+# 🔭 Vision
+
+Build intelligent solutions that bridge technology and people, creating positive impact in healthcare, accessibility, and everyday life.
+
+---
+
+# 🤝 Collaboration
+
+I am always interested in collaborating with:
+
+- Researchers
+- Healthcare professionals
+- Accessibility specialists
+- Android developers
+- AI engineers
+- Open-source communities
+- Organizations focused on social impact
+
+If you believe technology can improve people's lives, let's connect.
+
+---
+
+# 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/roberto-ribeiro-da-silva
+- GitHub: https://github.com/robertopub
+
+> "Technology achieves its greatest purpose when it improves people's lives."
